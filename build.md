@@ -11,7 +11,7 @@ Due to licensing differences the PCB is in the [harite-v3-pcb](https://github.co
 | Name                                                 | Qty                                             | Link                                                    |
 | ---------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
 | X-Ring of thickness 1.78mm and inner diameter 6.75mm | 12 min (but get 30+ since they break sometimes) | <https://www.aliexpress.com/item/1005006039394059.html> |
-| Ball Bearing 2mm (steel, ceramic etc.)               | 12                                              | <https://www.aliexpress.com/item/1005008116669372.html> |
+| Ball Bearing 2.5mm (steel, ceramic etc.)             | 12                                              | <https://www.aliexpress.com/item/1005008116669372.html> |
 | Super Glue                                           | 1                                               |                                                         |
 
 ### Joysticks 3D Printed Parts
