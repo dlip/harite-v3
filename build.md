@@ -93,7 +93,9 @@ This is handy if you just want to test out switches or tweak the design
   ![](./images/dual-cirque-feet.jpg)
 
 - Push joystick stems onto caps through the holes in the top of the cases
-- Connect FFC cables to the thumb cluster and Cirque. Use Blu Tak to help keep Cirque in place.
+- Use Blu Tak to help keep Cirque in place. Roll 3 thin 1cm noodles and squash them down, avoiding the alignment notches at the top left.
+  ![](./images/dual-cirque-blutak.jpg)
+- Connect FFC cables to the thumb cluster and Cirque.
   ![](./images/dual-cirque-assembly.jpg)
 
 - Screw main top on using 10mm screws, then the thumb cluster base and cirque mount with 6mm screws
