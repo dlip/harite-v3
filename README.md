@@ -1,4 +1,4 @@
-# Harite v3.0 Directional Keyboard
+# Harite v3 Directional Keyboard
 
 ![](./images/harite.jpg)
 
