@@ -2,7 +2,7 @@
 
 ![](./images/harite.jpg)
 
-- 4-way joystick cluster using mouse switches with a 35-40g actuation force
+- 4-way joystick cluster using mouse switches with around 40g actuation force
 - 48 total switches
 - Bluetooth wireless or USB-C wired
 - ZMK studio support for live keymap changes

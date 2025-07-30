@@ -16,18 +16,16 @@ Due to licensing differences the PCB is in the [harite-v3-pcb](https://github.co
 
 ### Joysticks 3D Printed Parts
 
-Due to 3D printing not being perfectly accurate, I have provided various heights for the stem base. I have found 1.4 mm to work most of the time, so start with that and go up if it feels loose or go down if it feels stiff and crunchy.
+Due to 3D printing not being perfectly accurate, I have provided various heights for the stem base. I have found 1.1 mm to work most of the time, so start with that and go up if it feels loose or go down if it feels stiff and crunchy.
 
 | Name            | Qty            | Layer Height | Infill | Supports | Link                                                                              |
 | --------------- | -------------- | ------------ | ------ | -------- | --------------------------------------------------------------------------------- |
 | Pivot Base      | 12             | 0.1mm        | 10%    | No       | [Step](./freecad/caps-pivot-bearing.step) [Stl](./freecad/caps-pivot-bearing.stl) |
 | Cap             | 12             | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickcap.step) [Stl](./freecad/caps-stickcap.stl)           |
+| Stem 0.9mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem09.step) [Stl](./freecad/caps-stickstem09.stl)     |
+| Stem 1.0mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem10.step) [Stl](./freecad/caps-stickstem10.stl)     |
 | Stem 1.1mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem11.step) [Stl](./freecad/caps-stickstem11.stl)     |
 | Stem 1.2mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem12.step) [Stl](./freecad/caps-stickstem12.stl)     |
-| Stem 1.3mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem13.step) [Stl](./freecad/caps-stickstem13.stl)     |
-| Stem 1.4mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem14.step) [Stl](./freecad/caps-stickstem14.stl)     |
-| Stem 1.5mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem15.step) [Stl](./freecad/caps-stickstem15.stl)     |
-| Stem 1.6mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem16.step) [Stl](./freecad/caps-stickstem16.stl)     |
 
 ### Joysticks Preparation
 
@@ -79,7 +77,7 @@ This is handy if you just want to test out switches or tweak the design
 | Mount Base Right   | 1   | 0.2mm        | 30%    | No       | [Step](./freecad/mount-base-mount-right.step) [Stl](./freecad/mount-base-mount-right.stl)                                                   |
 | Top Left           | 1   | 0.1mm        | 10%    | No       | [Step](./freecad/left-casetop-stick-print.step) [Stl](./freecad/left-casetop-stick-print.stl)                                               |
 | Top Right          | 1   | 0.1mm        | 10%    | No       | [Step](./freecad/left-casetop-stick-right-print.step) [Stl](./freecad/left-casetop-stick-right-print.stl)                                   |
-| Thumb Cluster Base | 2   | 0.2mm        | 10%    | No       | [Step](./freecad/thumb-cluster-thumb-cluster-casebase-print.step) [Stl](./freecad/thumb-cluster-thumb-cluster-casebase-print.stl)           |
+| Thumb Cluster Base | 2   | 0.1mm        | 10%    | No       | [Step](./freecad/thumb-cluster-thumb-cluster-casebase-print.step) [Stl](./freecad/thumb-cluster-thumb-cluster-casebase-print.stl)           |
 | Thumb Cluster Top  | 2   | 0.1mm        | 10%    | No       | [Step](./freecad/thumb-cluster-thumb-cluster-casetop-stick-print.step) [Stl](./freecad/thumb-cluster-thumb-cluster-casetop-stick-print.stl) |
 | Cirque Mount Left  | 1   | 0.1mm        | 10%    | Yes      | [Step](./freecad/cirque-mount-left.step) [Stl](./freecad/cirque-mount-left.stl)                                                             |
 | Cirque Mount Right | 1   | 0.1mm        | 10%    | Yes      | [Step](./freecad/cirque-mount-right.step) [Stl](./freecad/cirque-mount-right.stl)                                                           |
@@ -88,7 +86,7 @@ This is handy if you just want to test out switches or tweak the design
 
 - Melt M3 insert nuts into top of the cases, thumb cluster base and cirque mount. 180c is a good iron temperature.
   ![](./images/dual-cirque-nuts.jpg)
-- Melt 1/4-20 insert nut into back of the base. 300c is a good iron temperature. Be sure not to go too deep as it may offset the PCB, leave about 0.5mm sticking out.
+- Melt 1/4-20 insert nut into back of the base. 330c is a good iron temperature. Be sure not to go too far below the surface as it may offset the PCB.
 - Add rubber feet to base.
   ![](./images/dual-cirque-feet.jpg)
 
@@ -97,7 +95,8 @@ This is handy if you just want to test out switches or tweak the design
   ![](./images/dual-cirque-blutak.jpg)
 - Connect FFC cables to the thumb cluster and Cirque.
   ![](./images/dual-cirque-assembly.jpg)
-
+- Be sure to run the FFC cable under the notch of the Cirque to keep it flat.
+  ![](./images/dual-cirque-ffc.jpg)
 - Screw main top on using 10mm screws, then the thumb cluster base and cirque mount with 6mm screws
   ![](./images/dual-cirque-screw.jpg)
 - Done!
