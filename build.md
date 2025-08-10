@@ -29,10 +29,11 @@ Due to 3D printing not being perfectly accurate, I have provided various heights
 
 #### Caps
 
-| Name             | Qty           | Layer Height | Infill | Supports | Link                                                                                              |
-| ---------------- | ------------- | ------------ | ------ | -------- | ------------------------------------------------------------------------------------------------- |
-| Harite Cap       | 12 total caps | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickcap.step) [Stl](./freecad/caps-stickcap.stl)                           |
-| Master Forge Cap | 12 total caps | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickmaster-forge-cap.step) [Stl](./freecad/caps-stickmaster-forge-cap.stl) |
+| Name                                                   | Qty           | Layer Height | Infill | Supports | Link                                                                                                        |
+| ------------------------------------------------------ | ------------- | ------------ | ------ | -------- | ----------------------------------------------------------------------------------------------------------- |
+| Harite Cap                                             | 12 total caps | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickcap.step) [Stl](./freecad/caps-stickcap.stl)                                     |
+| Master Forge Cap                                       | 12 total caps | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickmaster-forge-cap.step) [Stl](./freecad/caps-stickmaster-forge-cap.stl)           |
+| Master Forge Cap with ring (for printing using rubber) | 12 total caps | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickmaster-forge-cap-ring.step) [Stl](./freecad/caps-stickmaster-forge-cap-ring.stl) |
 
 ### Joysticks Preparation
 
