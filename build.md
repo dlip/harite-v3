@@ -21,11 +21,16 @@ Due to 3D printing not being perfectly accurate, I have provided various heights
 | Name            | Qty            | Layer Height | Infill | Supports | Link                                                                              |
 | --------------- | -------------- | ------------ | ------ | -------- | --------------------------------------------------------------------------------- |
 | Pivot Base      | 12             | 0.1mm        | 10%    | No       | [Step](./freecad/caps-pivot-bearing.step) [Stl](./freecad/caps-pivot-bearing.stl) |
-| Cap             | 12             | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickcap.step) [Stl](./freecad/caps-stickcap.stl)           |
 | Stem 0.9mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem09.step) [Stl](./freecad/caps-stickstem09.stl)     |
 | Stem 1.0mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem10.step) [Stl](./freecad/caps-stickstem10.stl)     |
 | Stem 1.1mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem11.step) [Stl](./freecad/caps-stickstem11.stl)     |
 | Stem 1.2mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem12.step) [Stl](./freecad/caps-stickstem12.stl)     |
+| Stem 1.3mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem13.step) [Stl](./freecad/caps-stickstem13.stl)     |
+
+#### Caps
+
+| Name | Qty | Layer Height | Infill | Supports | Link |
+| Harite Cap | 12 | 0.1mm | 10% | No | [Step](./freecad/caps-stickcap.step) [Stl](./freecad/caps-stickcap.stl) |
 
 ### Joysticks Preparation
 
