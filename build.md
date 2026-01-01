@@ -26,6 +26,9 @@ Due to 3D printing not being perfectly accurate, I have provided various heights
 | Stem 1.1mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem11.step) [Stl](./freecad/caps-stickstem11.stl)     |
 | Stem 1.2mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem12.step) [Stl](./freecad/caps-stickstem12.stl)     |
 | Stem 1.3mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem13.step) [Stl](./freecad/caps-stickstem13.stl)     |
+| Stem 1.4mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem14.step) [Stl](./freecad/caps-stickstem14.stl)     |
+| Stem 1.5mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem15.step) [Stl](./freecad/caps-stickstem15.stl)     |
+| Stem 1.6mm Base | 12 total stems | 0.1mm        | 10%    | No       | [Step](./freecad/caps-stickstem16.step) [Stl](./freecad/caps-stickstem16.stl)     |
 
 #### Caps
 
